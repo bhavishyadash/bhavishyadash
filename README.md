@@ -1,6 +1,6 @@
 # Hi, I'm Bhavishya Dash
 
-### A passionate full-stack web developer branching into AI
+### A passionate full-stack web developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anannayamustcode&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views Badge" />
