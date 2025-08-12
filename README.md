@@ -25,7 +25,7 @@ I'm a full-stack web developer, and I've recently branched into the world of Art
 
 - 🌐 [**Portfolio Website**](https://portfolioo-beige-nine.vercel.app/)
 - 📄 [**Resume**](https://drive.google.com/drive/folders/12UFh4KoQJqUar3aAJJTbOqmNw8RJUaGo?usp=sharing)
-- 📬 [**Email**](mailto:anannayaagarwal@gmail.com)
+- 📬 [**Email**](mailto:db220605@gmail.com)
 
 ---
 
