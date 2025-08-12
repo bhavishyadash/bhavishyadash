@@ -1,6 +1,6 @@
 # Hi, I'm Bhavishya Dash
 
-### A passionate full-stack web developer
+### A passionate software developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anannayamustcode&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views Badge" />
@@ -32,10 +32,10 @@ I'm a full-stack web developer, and I've recently branched into the world of Art
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/anannaya-agarwal" target="_blank">
+  <a href="www.linkedin.com/in/bhavishya-dash-87b551201" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/anannaya__" target="_blank">
+  <a href="https://www.instagram.com/_zaza_12346/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
