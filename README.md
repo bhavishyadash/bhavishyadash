@@ -18,7 +18,7 @@ I am a passionate Computer Science student with strong interests in both softwar
 	-	Software Development – designing, coding, and building efficient solutions
 	-	Cybersecurity – learning principles of secure coding, system defense, and digital safety
  
-**Fun fact**: I used to believe clouds were edible when I was little, it was my dream to try one someday.
+**Fun fact**: My blood color is red.
 
 ---
 
