@@ -10,13 +10,14 @@
 
 ##  About Me
 
-I'm a full-stack web developer, and I've recently branched into the world of Artificial Intelligence. I enjoy building performant and scalable web apps, as well as experimenting with AI-powered tools and SaaS platforms.
+I am a passionate Computer Science student with strong interests in both software development and cybersecurity. My focus is on building a solid foundation in programming, while also gaining hands-on exposure to the security side of technology.
 
-- **Currently working on**: AI-integrated SaaS platforms and ML tools  
-- **Learning**: ML algorithms & AI integration with web apps  
-- **Open to collaborate on**: Freelance work, startup collabs, open-source AI projects
-- **Ask me about**: React • Next.js • Tailwind CSS • Node.js • MongoDB  
-
+	-	Languages: Python, Java (currently building strong fundamentals)
+	-	Tools & Platforms: Git, GitHub, VS Code
+	-	Areas of Interest:
+	-	Software Development – designing, coding, and building efficient solutions
+	-	Cybersecurity – learning principles of secure coding, system defense, and digital safety
+ 
 **Fun fact**: I used to believe clouds were edible when I was little, it was my dream to try one someday.
 
 ---
