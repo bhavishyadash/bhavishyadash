@@ -94,25 +94,3 @@ I am a passionate Computer Science student with strong interests in both softwar
 </details>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anannayamustcode&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anannayamustcode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Contributions
-
-![snake gif](https://github.com/anannayamustcode/anannayamustcode/blob/output/github-snake.svg)
-
----
-
-<p align="center">
-  <b>Let’s connect and build something amazing together 🚀</b>
-</p>
