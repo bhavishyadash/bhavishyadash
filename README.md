@@ -2,10 +2,6 @@
 
 ### A passionate software developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anannayamustcode&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views Badge" />
-</p>
-
 ---
 
 ##  About Me
