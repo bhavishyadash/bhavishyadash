@@ -19,7 +19,7 @@ I am a passionate Computer Science student with strong interests in both softwar
 ---
 
 ## 📎 Quick Links
-- 📄 [**Resume**](https://drive.google.com/file/d/1w8ga_DUqnsK0PeGETF1R0xh1VIXWoEvJ/view?usp=share_link)
+- 📄 [**Resume**](https://drive.google.com/file/d/1S2Lyo05HAzWEMfH8JjQSwYCyWbcWblM-/view?usp=share_link)
 - 📬 [**Email**](mailto:db220605@gmail.com)
 
 ---
